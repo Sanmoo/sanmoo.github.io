@@ -1,0 +1,38 @@
+- id: read_more
+  translation: "Ler Mais"
+
+- id: read_other_posts
+  translation: "Ler Outros Posts"
+
+- id: categories
+  translation: "Categorias"
+
+- id: tags
+  translation: "Tags"
+
+- id: archives
+  translation: "Arquivos"
+
+- id: reading_time
+  translation: "min de leitura"
+
+- id: word_count
+  translation: "palavras"
+
+- id: share
+  translation: "Compartilhar"
+
+- id: copy
+  translation: "Copiar"
+
+- id: copied
+  translation: "Copiado!"
+
+- id: search
+  translation: "Pesquisar"
+
+- id: search_results
+  translation: "Resultados da Pesquisa"
+
+- id: no_results
+  translation: "Nenhum resultado encontrado" 

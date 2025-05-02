@@ -1,0 +1,81 @@
+baseURL: "https://sanmoo.github.io/my-blog/"
+languageCode: en-us
+title: "Book Insights Blog"
+theme: PaperMod
+
+# Multilingual configuration
+languages:
+  en:
+    languageName: English
+    weight: 1
+    contentDir: content/en
+    title: "Book Insights Blog"
+    description: "A collection of insights and important lessons from books I read"
+    keywords: [Blog, Books, Reading, Learning]
+    DateFormat: "January 2, 2006"
+    profileMode:
+      title: "Book Insights Blog"
+      subtitle: "Sharing valuable lessons and insights from the books I read"
+      imageTitle: "profile picture"
+  pt:
+    languageName: Português
+    weight: 2
+    contentDir: content/pt
+    title: "Blog de Insights de Livros"
+    description: "Uma coleção de insights e lições importantes dos livros que leio"
+    keywords: [Blog, Livros, Leitura, Aprendizado]
+    DateFormat: "2 de Janeiro de 2006"
+    profileMode:
+      title: "Blog de Insights de Livros"
+      subtitle: "Compartilhando lições e insights valiosos dos livros que leio"
+      imageTitle: "foto de perfil"
+
+defaultContentLanguage: en
+defaultContentLanguageInSubdir: false
+
+pagination:
+  pagerSize: 5
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production
+  author: Samuel Carvalho Santos
+  defaultTheme: auto
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: true
+  tocopen: false
+
+  profileMode:
+    enabled: true
+    imageUrl: "https://avatars.githubusercontent.com/u/1881597?s=400&u=d1a25db45c4c7318be11ad9c2981d73db0473367&v=4"
+    imageWidth: 120
+    imageHeight: 120
+    buttons:
+      - name: Blog
+        url: posts
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/Sanmoo"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/samuel-carvalho-santos-abb17983/"
