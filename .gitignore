@@ -38,4 +38,7 @@ Thumbs.db
 
 # Temporary files
 *.tmp
-*.temp 
+*.temp
+
+# Draft posts
+content/**/drafts/ 
