@@ -1,35 +1,20 @@
 ---
-title: "Bem-vindo ao Meu Blog de Insights de Livros"
-date: 2024-03-19
-description: "Uma introdução à minha jornada de compartilhar insights e aprendizados de livros"
+title: "Bem-vindo"
+date: 2025-05-01
+description: "Uma introdução a este blog"
 tags: ["bem-vindo", "livros", "leitura"]
 categories: ["geral"]
-draft: true
+draft: false
 ---
 
-Bem-vindo ao meu Blog de Insights de Livros! Este é o espaço onde compartilharei lições valiosas, insights e reflexões dos livros que leio. Meu objetivo é criar um ambiente onde possamos explorar e discutir o poder transformador da leitura.
+Bem-vindo a este blog (esse termo ainda é utilizado, né?)! Este é um espaço onde pretendo compartilhar lições, insights e reflexões que surgem da minha experiência com leitura de livros técnicos em Desenvolvimento de Software, com muita ajuda da LLMs, graças a Deus!
 
-## O Que Esperar
+Primeiro, algumas informações básicas sobre mim: Me chamo Samuel, nasci em 1992 em Fortaleza-CE, cidade onde vivo atualmente com minha esposa Déborah e meu filho Eduardo. Trabalho com Desenvolvimento de Software desde 2012. Completei minha formação em Bacharelado em Ciência da Computação no primeiro semestre de 2013, pela UFC. Atualmente ocupo o cargo de Engenheiro de Software Staff no [Banco John Deere](https://www.deere.com.br/pt/financiamento/banco-john-deere/).
 
-Neste blog, você encontrará:
+Os livros sempre foram minha principal fonte de aprendizado nesta área, ficando atrás apenas da prática do dia a dia, é claro. O objetivo aqui é potencializar ainda mais esse aprendizado, articulando as principais ideias que extraio das minhas leituras e, quem sabe, criar oportunidades para troca de experiências e conhecimentos com os leitores.
 
-1. **Principais Aprendizados**: As lições e insights mais importantes de cada livro
-2. **Aplicações Práticas**: Como aplicar essas lições na vida real
-3. **Recomendações de Livros**: Sugestões curadas baseadas em diferentes tópicos e interesses
-4. **Reflexões sobre Leitura**: Pensamentos pessoais e como certos livros influenciaram minha perspectiva
+Sempre resisti à ideia de escrever um blog por... não gostar da atividade de escrever. Sempre preferi ler (assim como prefiro mais ouvir do que falar). Mas com o advento das LLMs, a escrita se tornou mais acessível. Dizem que escrever envolve um pouco de inspiração e bastante transpiração - as LLMs reduzem significativamente essa parte da transpiração, permitindo que nos concentremos na inspiração. Isso torna a atividade mais prazerosa e eficiente para quem escreve. 
 
-## Por Que Criei Este Blog
+Além disso, gostando ou não, escrever é uma habilidade fundamental — e, arrisco dizer, indispensável — para quem atua nessa área. À medida que avançamos na carreira, essa necessidade só aumenta e fica cada vez mais evidente. Por isso, encaro este blog também como um exercício para fortalecer meus músculos da escrita!
 
-A leitura sempre foi uma ferramenta poderosa para crescimento pessoal e aprendizado. Ao compartilhar meus insights, espero:
-
-- Criar um repositório de conhecimento valioso
-- Ajudar outros a descobrirem ótimos livros
-- Construir uma comunidade de leitores apaixonados
-- Documentar minha própria jornada de aprendizado
-
-## Junte-se a Mim Nesta Jornada
-
-Convido você a se inscrever, comentar e compartilhar seus próprios insights. Vamos criar uma comunidade vibrante de leitores e aprendizes!
-
-Fique atento ao meu primeiro post sobre insights de livros, que será publicado em breve!
-
+Por enquanto é só. Te vejo em outro post, até lá.
