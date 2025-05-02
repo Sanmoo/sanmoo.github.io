@@ -13,10 +13,11 @@ languages:
     description: "A collection of insights and important lessons from books I read"
     keywords: [Blog, Books, Reading, Learning]
     DateFormat: "January 2, 2006"
-    profileMode:
-      title: "Book Insights Blog"
-      subtitle: "Sharing valuable lessons and insights from the books I read"
-      imageTitle: "profile picture"
+    params:
+      profileMode:
+        title: "Book Insights Blog"
+        subtitle: "Sharing valuable lessons and insights from the books I read"
+        imageTitle: "profile picture"
   pt:
     languageName: Português
     weight: 2
@@ -25,10 +26,11 @@ languages:
     description: "Uma coleção de insights e lições importantes dos livros que leio"
     keywords: [Blog, Livros, Leitura, Aprendizado]
     DateFormat: "2 de Janeiro de 2006"
-    profileMode:
-      title: "Blog de Insights de Livros"
-      subtitle: "Compartilhando lições e insights valiosos dos livros que leio"
-      imageTitle: "foto de perfil"
+    params:
+      profileMode:
+        title: "Blog de Insights de Livros"
+        subtitle: "Compartilhando lições e insights valiosos dos livros que leio"
+        imageTitle: "foto de perfil"
 
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: false
